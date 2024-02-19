@@ -34,8 +34,8 @@ p{
 }
 #download-button:hover {
   background: transparent;
-  border: 2px solid #000000;
-  box-shadow: 0 0 10px 0 black, 0 0 10px 0 black inset;
+  border: 2px solid #fff;
+  box-shadow: 0 0 10px 0 #fff, 0 0 10px 0 #fff inset;
   color: black;
 }
 
