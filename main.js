@@ -18,7 +18,7 @@ function Animator(query, text) {
       query.innerText = text.slice(0, text.length - iter) + randomStr(iter)
       iter -= 1 / 8;
     }
-  }, 10)
+  }, 30)
 }
 
 /*
