@@ -26,3 +26,4 @@ First Arguement: DOM Element
 Second Arguement: The Text
 */
 Animator(document.getElementById("download-button"), "DOWNLOAD THIS TEXT EFFECT")
+Animator(document.getElementById("github"), "GitHub")
